@@ -4,3 +4,4 @@ New Domains :D
 Added automatic year on main hosting site.
 Added completed VPS plans and links for customers to buy.
 Fixed OpenVZ support in WHMCS
+Added TOS page to the billing panel
